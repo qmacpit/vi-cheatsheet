@@ -9,8 +9,18 @@
 ```
 
 ### goto
-- go to end of file: *Shift+g*
-- go to line no
+- end of file: *Shift+g*
+- beginning of file: *gg*
+- beginning of line: *0*
+- end of line: *$*
+- line no
 ```
 :<lineNumber>
 ```
+
+### select
+- select line: *V*
+- select text: *v*
+- copy selection: *y*
+- paste selection: *y*
+- delete selection: *d*
