@@ -22,5 +22,5 @@
 - select line: *V*
 - select text: *v*
 - copy selection: *y*
-- paste selection: *y*
+- paste selection: *p*
 - delete selection: *d*
