@@ -24,3 +24,7 @@
 - copy selection: *y*
 - paste selection: *p*
 - delete selection: *d*
+
+### edit
+- undo: *u*
+- rendo: *Ctrl+r*
