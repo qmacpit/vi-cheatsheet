@@ -7,7 +7,6 @@
 ```
 /<textToBeFound>
 ```
-
 ### goto
 - end of file: *Shift+g*
 - beginning of file: *gg*
@@ -17,7 +16,8 @@
 ```
 :<lineNumber>
 ```
-
+- one word right *w*
+- one word left *b*
 ### select
 - select line: *V*
 - select text: *v*
