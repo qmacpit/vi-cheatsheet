@@ -24,7 +24,11 @@
 - copy selection: *y*
 - paste selection: *p*
 - delete selection: *d*
+- duplicate line *yyp*
 
 ### edit
 - undo: *u*
 - rendo: *Ctrl+r*
+
+### various
+- autocomplete: *Ctrl+p*
