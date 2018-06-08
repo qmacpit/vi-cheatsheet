@@ -30,5 +30,11 @@
 - undo: *u*
 - rendo: *Ctrl+r*
 
+### pasting 
+ - type ```:set paste```
+ - press *i*
+ - paste your text
+ - type ```:set nopaste```
+
 ### various
 - autocomplete: *Ctrl+p*
